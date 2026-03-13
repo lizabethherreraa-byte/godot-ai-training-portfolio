@@ -1,0 +1,36 @@
+# CAD & Digital Modeling Portfolio
+
+This repository demonstrates basic workflows used in computer-aided design (CAD) and digital modeling environments.
+
+The examples focus on fundamental concepts used in engineering design, architectural modeling, and digital asset creation.
+
+## Skills Demonstrated
+
+• 2D drafting concepts  
+• 3D parametric modeling  
+• CAD design workflows  
+• digital asset modeling  
+• BIM data structure concepts  
+
+## Example Projects
+
+### Mechanical Component Modeling
+Basic 3D modeling of mechanical parts using parametric design concepts.
+
+### Architectural Layout Drafting
+2D drafting workflows for architectural floor plans and layouts.
+
+### BIM Data Structure Concepts
+Examples of building information modeling workflows and IFC data structure organization.
+
+## Tools Referenced
+
+FreeCAD  
+AutoCAD Mechanical  
+Rhino 3D  
+Vectorworks  
+BlenderBIM  
+
+## Purpose
+
+This repository demonstrates knowledge of CAD and digital modeling workflows relevant to engineering design and AI training applications.
