@@ -1,0 +1,34 @@
+# Medical Imaging & 3D Visualization Portfolio
+
+This repository demonstrates workflows used in medical imaging analysis and 3D anatomical visualization.
+
+The examples focus on interpreting medical scan data and generating visual models from imaging datasets.
+
+## Skills Demonstrated
+
+• Medical imaging visualization  
+• CT and MRI scan interpretation concepts  
+• Image segmentation techniques  
+• 3D anatomical reconstruction  
+• Visualization of volumetric datasets  
+
+## Example Projects
+
+### CT Scan Visualization
+Visualization of computed tomography datasets to explore anatomical structures.
+
+### Image Segmentation
+Segmenting anatomical regions from medical imaging datasets.
+
+### 3D Reconstruction
+Generating 3D anatomical models from volumetric scan data.
+
+## Tools Used
+
+3D Slicer  
+Medical imaging datasets  
+Volumetric visualization techniques  
+
+## Purpose
+
+This repository demonstrates knowledge of medical imaging workflows and visualization methods relevant to biomedical research and AI training projects.
