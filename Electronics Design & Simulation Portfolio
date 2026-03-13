@@ -1,0 +1,34 @@
+# Electronics Design & Simulation Portfolio
+
+This repository demonstrates foundational concepts in electronics design and circuit simulation.
+
+The examples included highlight electronic system modeling, schematic design principles, and simulation workflows used to analyze circuit behavior.
+
+## Skills Demonstrated
+
+• Electronic circuit design concepts  
+• Schematic diagram interpretation  
+• Circuit simulation workflows  
+• Component behavior analysis  
+• Electronic system modeling  
+
+## Example Projects
+
+### Basic Circuit Simulation
+Simulation of simple electronic circuits including resistors, capacitors, and voltage sources.
+
+### Signal Analysis
+Analyzing signal flow through electronic components and systems.
+
+### Power System Modeling
+Basic examples demonstrating voltage regulation and current flow in simple circuits.
+
+## Tools Used
+
+Electronic Design Automation (EDA) tools  
+Circuit simulation environments  
+Electronic component libraries  
+
+## Purpose
+
+This repository demonstrates foundational knowledge of electronics design and simulation workflows relevant to engineering analysis and AI training applications.
